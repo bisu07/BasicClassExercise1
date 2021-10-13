@@ -1,0 +1,14 @@
+C:\Users\bishal\source\repos\BasicClassExcersie1\BasicClassExcersie1\bin\Debug\netcoreapp3.1\BasicClassExcersie1.exe
+C:\Users\bishal\source\repos\BasicClassExcersie1\BasicClassExcersie1\bin\Debug\netcoreapp3.1\BasicClassExcersie1.deps.json
+C:\Users\bishal\source\repos\BasicClassExcersie1\BasicClassExcersie1\bin\Debug\netcoreapp3.1\BasicClassExcersie1.runtimeconfig.json
+C:\Users\bishal\source\repos\BasicClassExcersie1\BasicClassExcersie1\bin\Debug\netcoreapp3.1\BasicClassExcersie1.runtimeconfig.dev.json
+C:\Users\bishal\source\repos\BasicClassExcersie1\BasicClassExcersie1\bin\Debug\netcoreapp3.1\BasicClassExcersie1.dll
+C:\Users\bishal\source\repos\BasicClassExcersie1\BasicClassExcersie1\bin\Debug\netcoreapp3.1\BasicClassExcersie1.pdb
+C:\Users\bishal\source\repos\BasicClassExcersie1\BasicClassExcersie1\obj\Debug\netcoreapp3.1\BasicClassExcersie1.csproj.AssemblyReference.cache
+C:\Users\bishal\source\repos\BasicClassExcersie1\BasicClassExcersie1\obj\Debug\netcoreapp3.1\BasicClassExcersie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bishal\source\repos\BasicClassExcersie1\BasicClassExcersie1\obj\Debug\netcoreapp3.1\BasicClassExcersie1.AssemblyInfoInputs.cache
+C:\Users\bishal\source\repos\BasicClassExcersie1\BasicClassExcersie1\obj\Debug\netcoreapp3.1\BasicClassExcersie1.AssemblyInfo.cs
+C:\Users\bishal\source\repos\BasicClassExcersie1\BasicClassExcersie1\obj\Debug\netcoreapp3.1\BasicClassExcersie1.csproj.CoreCompileInputs.cache
+C:\Users\bishal\source\repos\BasicClassExcersie1\BasicClassExcersie1\obj\Debug\netcoreapp3.1\BasicClassExcersie1.dll
+C:\Users\bishal\source\repos\BasicClassExcersie1\BasicClassExcersie1\obj\Debug\netcoreapp3.1\BasicClassExcersie1.pdb
+C:\Users\bishal\source\repos\BasicClassExcersie1\BasicClassExcersie1\obj\Debug\netcoreapp3.1\BasicClassExcersie1.genruntimeconfig.cache
